@@ -6,7 +6,7 @@ This Data Analysis Report base on company's data file Electricity_20-09-2024.csv
 
 This interactive data visualization dashboard provides insights into Finnish electricity consumption, pricing trends, and temperature variations over a selected period. By analyzing real-world electricity usage data, the dashboard helps users understand how energy consumption fluctuates and how pricing impacts overall electricity costs.
 
-Final report: https://companyelectricity-whr2x5fnqs8eccrjakjwdn.streamlit.app/
+Final online dashboard report: https://companyelectricity-whr2x5fnqs8eccrjakjwdn.streamlit.app/
 
 ## Page 1
 <img width="1544" height="964" alt="Capture 5" src="https://github.com/user-attachments/assets/587fe941-7eeb-4dbb-b222-a7324e31dcab" />
